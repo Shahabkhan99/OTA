@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AEXOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="aexota.xsd">
+<AEXOTA>
     <Stable>
         <onyx>
             <Filename>AospExtended-v6.6-onyx-20191231-0322-OFFICIAL</Filename>
