@@ -1,45 +1,24 @@
-# !/bin/bash
-# XenonHD OTA
-
-#DEVICE=`grep ro.product.device $OUT/*/build.prop | cut -d'=' -f2`
-#TYPE=`grep ro.product.type $OUT/*/build.prop | cut -d'=' -f2`
-#VERSION=`grep ro.product.version $OUT/*/build.prop | cut -d'=' -f2`
-#TIME=`grep ro.product.timestamp $OUT/*/build.prop | cut -d'=' -f2`
-
-#OTA=${OTA_TYPE,,}
-#TITLE=$DEVICE\_$OTA##
-
-#AospExtended_TARGET_PACKAGE=$VERSION-$DEVICE.zip
-
-# Create OTA XML file
-#if [ -f $OTA_DIR/ota_conf ] &>/dev/null; then
-
-#cat >$OUT/ota_$TITLE.xml <<EOF
-#<?xml version="1.0" encoding="UTF-8"?>
-#<AEXOTA>
-#    <Pie>
-#        <$DEVICE>
-#            <Filename>$VERSION</Filename>
-##            <BuildTime>$TIME</BuildTime>
- #           <RomUrl>https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.zip/download</RomUrl>
- #           <MD5Url>https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.md5/download</MD5Url>
- #           <ChangelogUrl>https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.txt/download</ChangelogUrl>
- #        </$DEVICE>
- #   </Pie>
-# </AEXOTA>
-# EOF
-# fi
-
-
 <?xml version="1.0" encoding="UTF-8"?>
-<OTA>
-    <Pie>
+<AEXOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
         <onyx>
-            <Filename>AospExtended-v6.6-onyx-20191231-0322-OFFICIAL</Filename>
-            <RomUrl>https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.zip/download</RomUrl>
-            <MD5Url>https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.md5/download</MD5Url>
-            <ChangelogUrl>https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.txt/download</ChangelogUrl>
-        </onyx>
-    </Pie>
-</OTA>
-
+            <Filename>AospExtended-v6.6-onyx-20191231</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download AEX builds">https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Download SlimSaber changelogs">https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.txt/download</ChangelogUrl>
+            <GappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest SlimGapps">http://209.95.39.164/Gapps/Lollipop</GappsUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA"
+                description="Visit SlimSaber bacon thread">https://forum.xda-developers.com/oneplus-x/development/rom-aosp-extended-rom-v6-3-t3909017</XDAUrl>
+	</onyx>
+    </Stable>
+</AEXOTA>
