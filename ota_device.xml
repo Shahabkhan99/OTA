@@ -2,7 +2,7 @@
 <AEXOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <onyx>
-            <Filename>AospExtended-v6.6-onyx-20191231</Filename>
+            <Filename>AospExtended-v6.6-onyx-20191231-0322-OFFICIAL</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
