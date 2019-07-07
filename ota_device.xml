@@ -1,12 +1,12 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-<XenonOTA>
+<AEXOTA>
     <Pie>
         <onyx>
-            <Filename>AospExtended-6.6</Filename>
+            <Filename>AospExtended-v6.6-onyx-20191231-0322-OFFICIAL</Filename>
             <RomUrl>https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.zip</RomUrl>
             <MD5>725d8ece3aeabe6d9b9d0ef238fdf035</MD5>
             <ChangelogUrl>https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.txt</ChangelogUrl>
         </onyx>
     </Pie>
-</XenonOTA>
+</AEXOTA>
