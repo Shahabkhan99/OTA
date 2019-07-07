@@ -1,6 +1,6 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-<OTA>
+<AEXOTA>
     <Pie>
         <Onyx>
             <Filename>AospExtended-v6.6-onyx-20191231-0322-OFFICIAL</Filename>
@@ -9,4 +9,4 @@
             <ChangelogUrl>https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.txt/Download</ChangelogUrl>
         </Onyx>
     </Pie>
-</OTA>
+</AEXOTA>
