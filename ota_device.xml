@@ -1,24 +1,12 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
-<OTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
+<XenonOTA>
+    <Pie>
         <onyx>
-            <Filename>AospExtended-v6.6-onyx-20191231-0322-OFFICIAL</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download AEX builds">https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.zip/download</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="Download AEX changelogs">https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.txt/download</ChangelogUrl>
-            <GappsUrl
-                id="gapps"
-                title="Gapps"
-                description="Download latest AEXGapps">http://209.95.39.164/Gapps/Pie</GappsUrl>
-            <XDAUrl
-                id="xda"
-                title="XDA"
-                description="Visit SlimSaber bacon thread">https://forum.xda-developers.com/oneplus-x/development/rom-aosp-extended-rom-v6-3-t3909017</XDAUrl>
-	</onyx>
-    </Stable>
-</OTA>
+            <Filename>AospExtended-6.6</Filename>
+            <RomUrl>https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.zip</RomUrl>
+            <MD5>725d8ece3aeabe6d9b9d0ef238fdf035</MD5>
+            <ChangelogUrl>https://sourceforge.net/projects/aex-rom-x/files/OTA/builds/AospExtended-v6.6-onyx-20191231-0322-OFFICIAL.txt</ChangelogUrl>
+        </onyx>
+    </Pie>
+</XenonOTA>
