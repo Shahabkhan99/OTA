@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Pie>
         <onyx>
-            <Filename>AospExtended-v6.7-20201231-0322-UNOFFICIAL</Filename>
+            <Filename>AospExtended-20201230-20201231-0322-UNOFFICIAL</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
