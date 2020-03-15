@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="https://downloads.sourceforge.net/project/aex-rom-x/OTA/builds/AospExtended-v6.7-20201231-0322-UNOFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faex-rom-x%2Ffiles%2FOTA%2Fbuilds%2FAospExtended-v6.7-onyx-20201231-0322-UNOFFICIAL.zip%2Fdownload&amp;ts=1584147982</RomUrl>
+                description="Download SlimSaber builds">https://downloads.sourceforge.net/project/aex-rom-x/OTA/builds/AospExtended-v6.7-20201231-0322-UNOFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faex-rom-x%2Ffiles%2FOTA%2Fbuilds%2FAospExtended-v6.7-onyx-20201231-0322-UNOFFICIAL.zip%2Fdownload&amp;ts=1584147982</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
