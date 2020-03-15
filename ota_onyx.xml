@@ -13,25 +13,12 @@
 </AEX-OTA>
 
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
-        <A0001>
-            <Filename>SlimSaber-bacon-5.0.2-20150507</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download SlimSaber builds">https://www.androidfilehost.com/?w=files&amp;flid=21887</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="Download SlimSaber changelogs">https://www.androidfilehost.com/?w=files&amp;flid=21888</ChangelogUrl>
-            <GappsUrl
-                id="gapps"
-                title="Gapps"
-                description="Download latest SlimGapps">http://209.95.39.164/Gapps/Lollipop</GappsUrl>
-            <XDAUrl
-                id="xda"
-                title="XDA"
-                description="Visit SlimSaber bacon thread">http://forum.xda-developers.com/oneplus-one/development/rom-slimsaber-bacon-t2858033</XDAUrl>
-	</A0001>
-    </Stable>
+      <OnePlus>
+        <onyx>
+            <Filename>AospExtended-v6.7-20201231-0322-UNOFFICIAL</Filename>
+            <RomUrl>https://downloads.sourceforge.net/project/aex-rom-x/OTA/builds/AospExtended-v6.7-20201231-0322-UNOFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faex-rom-x%2Ffiles%2FOTA%2Fbuilds%2FAospExtended-v6.7-onyx-20201231-0322-UNOFFICIAL.zip%2Fdownload&ts=1584147982</RomUrl>
+            <MD5Url>https://downloads.sourceforge.net/project/aex-rom-x/OTA/builds/AospExtended-v6.7-20201231-0322-UNOFFICIAL.md5?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faex-rom-x%2Ffiles%2FOTA%2Fbuilds%2FAospExtended-v6.7-onyx-20201231-0322-UNOFFICIAL.md5%2Fdownload%3Fuse_mirror%3Dsvwh%26download%3D%26failedmirror%3Dayera.dl.sourceforge.net&ts=1584148245</MD5Url>
+            <ChangelogUrl>https://downloads.sourceforge.net/project/aex-rom-x/OTA/builds/AospExtended-v6.7-20201231-0322-UNOFFICIAL.txt?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faex-rom-x%2Ffiles%2FOTA%2Fbuilds%2FAospExtended-v6.7-onyx-20201231-0322-UNOFFICIAL.txt%2Fdownload&ts=1584148335</ChangelogUrl>
+        </onyx>
+      </OnePlus>  
 </SlimOTA>
