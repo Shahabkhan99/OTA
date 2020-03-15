@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<SlimOTA>
-    <Pie>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
         <onyx>
             <Filename>AospExtended-v6.7-20201231-0322-UNOFFICIAL</Filename>
             <RomUrl
@@ -20,5 +20,5 @@
                 title="XDA"
                 description="Visit SlimSaber bacon thread">http://forum.xda-developers.com/oneplus-one/development/rom-slimsaber-bacon-t2858033</XDAUrl>
 	</onyx>
-    </Pie>
+    </Stablee>
 </SlimOTA>
