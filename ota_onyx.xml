@@ -2,19 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Pie>
         <onyx>
-            <Filename>AospExtended-20201230-20201231-0322-UNOFFICIAL</Filename>
+            <Filename>AospExtended-v6.7-20201231-0322-UNOFFICIAL</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download SlimSaber builds">https://downloads.sourceforge.net/project/aex-rom-x/OTA/builds/AospExtended-v6.7-20201231-0322-UNOFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faex-rom-x%2Ffiles%2FOTA%2Fbuilds%2FAospExtended-v6.7-onyx-20201231-0322-UNOFFICIAL.zip%2Fdownload&ts=1584147982</RomUrl>
+                description="https://downloads.sourceforge.net/project/aex-rom-x/OTA/builds/AospExtended-v6.7-20201231-0322-UNOFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faex-rom-x%2Ffiles%2FOTA%2Fbuilds%2FAospExtended-v6.7-onyx-20201231-0322-UNOFFICIAL.zip%2Fdownload&amp;ts=1584147982</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Download SlimSaber changelogs">https://downloads.sourceforge.net/project/aex-rom-x/OTA/builds/AospExtended-v6.7-20201231-0322-UNOFFICIAL.txt?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faex-rom-x%2Ffiles%2FOTA%2Fbuilds%2FAospExtended-v6.7-onyx-20201231-0322-UNOFFICIAL.txt%2Fdownload&ts=1584148335</ChangelogUrl>
+                description="Download SlimSaber changelogs">https://www.androidfilehost.com/?w=files&amp;flid=21888</ChangelogUrl>
             <GappsUrl
                 id="gapps"
                 title="Gapps"
-                description="Download latest SlimGapps">http://209.95.39.164/Gapps/Lollipop</GappsUrl>
+                description="Download latest SlimGapps">https://downloads.sourceforge.net/project/opengapps/arm/20200311/open_gapps-arm-9.0-mini-20200311.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fopengapps%2Ffiles%2Farm%2F20200311%2Fopen_gapps-arm-9.0-mini-20200311.zip%2Fdownload&ts=1584238702</GappsUrl>
             <XDAUrl
                 id="xda"
                 title="XDA"
