@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<XenonOTA>
+<XenonOTA xmlns:android="http://schemas.android.com/apk/res/android" >
     <ota>
         <onyx>
             <Filename>AospExtended-v6.7-20201231-0322-UNOFFICIAL</Filename>
