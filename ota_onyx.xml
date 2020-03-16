@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<AEX-OTA xmlns:android="http://schemas.android.com/apk/res/android" >
+<XenonOTA xmlns:android="http://schemas.android.com/apk/res/android" >
     <Pie>
         <onyx>
             <Filename>AospExtended-v6.7-20201231-0322-UNOFFICIAL</Filename>
@@ -8,4 +8,4 @@
             <ChangelogUrl>https://downloads.sourceforge.net/project/aex-rom-x/OTA/builds/AospExtended-v6.7-20201231-0322-UNOFFICIAL.txt?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Faex-rom-x%2Ffiles%2FOTA%2Fbuilds%2FAospExtended-v6.7-onyx-20201231-0322-UNOFFICIAL.txt%2Fdownload&amp;ts=1584148335</ChangelogUrl>
         </onyx>
     </Pie>
-</AEX-OTA>
+</XenonOTA>
