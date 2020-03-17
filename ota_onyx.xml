@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <XenonOTA>
     <Pie>
+        <ONE E1003>
         <onyx>
             <Filename>AospExtended-v6.7-20200307-2121-OFFICIAL</Filename>
             <RomUrl>https://downloads.sourceforge.net/project/aex-rom-x/AospExtended-v6.7-20200307-2121-OFFICIAL.zip</RomUrl>
@@ -12,5 +13,6 @@
            <RomUrl>https://www.dropbox.com/s/o785ime6gfd4pc1/AospExtended-v6.7-20201231-0322-OFFICIAL.zip?dl=0</RomUrl> 
             </!-->
         </onyx>
+       </ONE E1003>
     </Pie>
 </XenonOTA>
