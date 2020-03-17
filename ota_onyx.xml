@@ -2,24 +2,11 @@
 <XenonOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Pie>
         <onyx>
-            <Filename>AospExtended-v6.7-20200307-OFFICIAL</Filename>
-            <RomUrl
-                id="rom"
-                title="Rom"
-                description="Download AEX builds">https://sourceforge.net/projects/aex-rom-x/files/AospExtended-v6.7-20200307-2121-UNOFFICIAL.zip/download</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="Download AEX changelogs">https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-20200307-2121-OFFICIAL.txt</ChangelogUrl>
+            <Filename>AospExtended-v6.7-20201231-0322-OFFICIAL</Filename>
+			<BuildTime>1566420420</BuildTime>
+            <RomUrl>https://github.com/Shahabkhan99/OTA/blob/master/AospExtended-v6.7-20201231-0322-OFFICIAL.zip?raw=true</RomUrl>
+            <MD5Url>https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-20201231-0322-OFFICIAL.md5</MD5Url>
+            <ChangelogUrl>https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-20201231-0322-OFFICIAL-Changelog.txt</ChangelogUrl>
         </onyx>
     </Pie>
-</XenonOTA>
-<!-->
-            <Filename>XenonHD-181201-Experimental</Filename>
-			<BuildTime>1543664853</BuildTime>
-            <RomUrl>https://raw.githubusercontent.com/Devil7DK/XenonOTATest/master/XenonHD-181201-Experimental-land.zip</RomUrl>
-            <MD5Url>https://raw.githubusercontent.com/Devil7DK/XenonOTATest/master/XenonHD-181201-Experimental-land.zip.md5sum</MD5Url>
-            <ChangelogUrl>https://mirrors.c0urier.net/android/teamhorizon/O/Experimental/lux/Changelog.txt</ChangelogUrl>
-        </land>
-    </Pie>
-</XenonOTA>  </!-->
+</XenonOTA> 
