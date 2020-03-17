@@ -3,8 +3,14 @@
     <Pie>
         <onyx>
             <Filename>AospExtended-v6.7-20200307-OFFICIAL</Filename>
-            <RomUrl>https://sourceforge.net/projects/aex-rom-x/files/AospExtended-v6.7-20200307-2121-UNOFFICIAL.zip/download</RomUrl>
-            <ChangelogUrl>https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-20200307-2121-OFFICIAL.txt</ChangelogUrl>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download AEX builds">https://sourceforge.net/projects/aex-rom-x/files/AospExtended-v6.7-20200307-2121-UNOFFICIAL.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Download AEX changelogs">https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-20200307-2121-OFFICIAL.txt</ChangelogUrl>
         </onyx>
     </Pie>
 </XenonOTA>
