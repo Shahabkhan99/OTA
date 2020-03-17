@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<XenonOTA>
+<XenonOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Pie>
         <onyx>
             <Filename>AospExtended-v6.7-20200307-OFFICIAL</Filename>
@@ -14,3 +14,12 @@
         </onyx>
     </Pie>
 </XenonOTA>
+<!-->
+            <Filename>XenonHD-181201-Experimental</Filename>
+			<BuildTime>1543664853</BuildTime>
+            <RomUrl>https://raw.githubusercontent.com/Devil7DK/XenonOTATest/master/XenonHD-181201-Experimental-land.zip</RomUrl>
+            <MD5Url>https://raw.githubusercontent.com/Devil7DK/XenonOTATest/master/XenonHD-181201-Experimental-land.zip.md5sum</MD5Url>
+            <ChangelogUrl>https://mirrors.c0urier.net/android/teamhorizon/O/Experimental/lux/Changelog.txt</ChangelogUrl>
+        </land>
+    </Pie>
+</XenonOTA>  </!-->
