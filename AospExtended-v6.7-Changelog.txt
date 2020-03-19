@@ -1,4 +1,4 @@
-*Merge April Security patch*
+* Merge April Security patch *
 - Improved Camera with Sony Camera patch
 - Updated all translations
 - Updated all pre-built apks
