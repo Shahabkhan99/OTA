@@ -1,5 +1,9 @@
-* Merge April Security patch *
+* Merge April 2020 Security patch *
+- OTA release for dirty flash
+
+* Merge March 2020 Security patch *
 - Improved Camera with Sony Camera patch
+- OTA app added 1.0
 - Updated all translations
 - Updated all pre-built apks
 - Fixed Substratum 
