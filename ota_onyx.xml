@@ -2,7 +2,7 @@
 <XenonOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Pie>
         <onyx>
-            <Filename>AospExtended-v6.7-20201231-OTA</Filename>
+            <Filename>AospExtended-v6.7-20200301-OTA</Filename>
 			<BuildTime>1566420420</BuildTime>
             <RomUrl>https://https://github.com/Shahabkhan99/OTA/raw/master/AospExtended-v6.7-20201231-0322-OFFICIAL.zip</RomUrl>
             <MD5Url>https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-20201231-0322-OFFICIAL.md5</MD5Url>
