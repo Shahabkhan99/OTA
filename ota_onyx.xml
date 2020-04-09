@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<XenonOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<SG_OTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Pie>
         <onyx>
             <Filename>AospExtended-v6.7-20200410-OTA</Filename>
@@ -9,4 +9,4 @@
             <ChangelogUrl>https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-Changelog.txt</ChangelogUrl>
         </onyx>
     </Pie>
-</XenonOTA> 
+</SG_OTA> 
