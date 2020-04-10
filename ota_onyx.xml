@@ -2,9 +2,9 @@
 <SG_OTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Pie>
         <onyx>
-            <Filename>AospExtended-v6.7-20190410-OTA</Filename>
+            <Filename>AospExtended-v6.7-20200410-OTA</Filename>
 			<BuildTime>1566420420</BuildTime>
-            <RomUrl>https://sourceforge.net/projects/aex-rom-x/files/AEXOTA/AospExtended-v6.7-onyx-20190410-OTA.zip/download</RomUrl>
+            <RomUrl>https://sourceforge.net/projects/aex-rom-x/files/AEXOTA/AospExtended-v6.7-onyx-20200410-OTA.zip/download</RomUrl>
             <MD5Url>https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-MD5.md5</MD5Url>
             <ChangelogUrl>https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-Changelog.txt</ChangelogUrl>
         </onyx>
