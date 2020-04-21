@@ -9,4 +9,4 @@
             <ChangelogUrl>https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-Changelog.txt</ChangelogUrl>
         </onyx>
 	</Pie>
-</SG_OTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+</SG_OTA>
