@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SG_OTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-  <Official>
 	<Pie>
+		  <Official>
         <onyx>
             <Filename>AospExtended-v6.7-20200410-OTA.zip</Filename>
 			<BuildTime>1586541893</BuildTime>
@@ -9,6 +9,6 @@
             <MD5Url>https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-MD5.md5</MD5Url>
             <ChangelogUrl>https://raw.githubusercontent.com/Shahabkhan99/OTA/master/AospExtended-v6.7-Changelog.txt</ChangelogUrl>
         </onyx>
+		 </Official>
     </Pie>
-     </Official>	  
 </SG_OTA> 
