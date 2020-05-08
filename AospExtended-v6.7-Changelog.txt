@@ -1,10 +1,51 @@
-* Merge April 2020 Security patch *
-- OTA release for dirty flash
+====================
+     05-05-2020
+====================
+Merge May 2020 security patch
+There is a new boot animation!
+Update APN configs
+Update Google Markup
+SG OTA app updated 2.0 with all fix
+Bug fixes and performance improvements
 
-* Merge March 2020 Security patch *
-- Improved Camera with Sony Camera patch
-- OTA app added 1.0
-- Updated all translations
-- Updated all pre-built apks
-- Fixed Substratum 
-- Bug fixes and performance improvements
+====================
+     05-04-2020
+====================
+Merge Apirl 2020 security patch
+New AEX Wallpaper
+Update all of our packages
+Update APN configs
+Update Boostframework configs
+Bug fixes and performance improvements
+
+====================
+     21-03-2020
+====================
+Merge March 2020 security patch
+Added SG OTA 1.0 app 
+Improved Camera with Sony Camera patch
+Oneplus Pro Cam back 2.5.34
+Fixed Substratum 
+Update all translations
+Update all of our packages
+Update APN configs
+Update Boostframework configs
+Update MusicFX
+Update Launcher 3
+Add new default wallpaper
+Add VPN QS tile
+Add per-app data restriction
+Add privacy guard
+Add proximity speaker for calls
+Add an option for the AEX Logo in status bar
+Add smart mute feature
+Add some new fonts
+Improve Gaming Mode
+Improve Pocket Lock
+Improve Live Display
+Improve the Q style lock clock
+Improve VoLTE toggle
+Improve some UI/UX aspects
+Fix few theming issues
+Lot of under the hood improvements
+Bug fixes and performance improvements
