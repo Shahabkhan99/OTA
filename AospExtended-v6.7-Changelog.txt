@@ -1,7 +1,7 @@
 ====================
      05-07-2020
 ====================
-Merge June 2020 security patch
+Merge July 2020 security patch
 Bug fixes and performance improvements
 
 ====================
